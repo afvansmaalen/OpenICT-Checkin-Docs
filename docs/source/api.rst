@@ -79,6 +79,9 @@ V1
 
 /api/v1/putDaily:
 	Creates a basic answer sheet
+	
+/api/vi/getAnswersQuestionOne:
+
 .. _v2:
 V2
 --------
