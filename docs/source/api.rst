@@ -79,6 +79,13 @@ V1
 
 /api/v1/putDaily:
 	Creates a basic answer sheet
+	
+/api/v1/getAnswersQuestionOne:
+	Returns a JSON with all answers to question 1 of the daily-checkin
+	
+/api/v1/getAllAnswersQuestionOne{user_id}:
+	Returns all answers of question 1 with user ID of the daily-checkin per user
+	
 .. _v2:
 V2
 --------
